@@ -1,5 +1,4 @@
 package GUI.Menu;
-
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
@@ -67,4 +66,3 @@ public class MyMenu extends JFrame implements ActionListener {
         new MyMenu();
     }
 }
-
